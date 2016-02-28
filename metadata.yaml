@@ -1,0 +1,40 @@
+_repo: The-Betrothed_6490
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "The Betrothed is an 1825 novel by Sir Walter Scott. It is the first\
+  \ of two Tales of the Crusaders, the second being The Talisman.\nParts of the novel\
+  \ were incorporated into Francesco Maria Piave's libretto for Giuseppe Verdi's 1857\
+  \ opera, Aroldo, itself a re-working of an earlier Verdi opera, Stiffelio.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6490'
+  wikidata: Q3232591
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Crusades -- Third, 1189-1192 -- Fiction'
+title: The Betrothed
+url: http://www.gutenberg.org/ebooks/6490
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D1%83%D1%87%D1%91%D0%BD%D0%BD%D0%B0%D1%8F
+- https://fr.wikipedia.org/wiki/Les_Fianc%C3%A9s_(Scott)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D8%A8_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D8%B3%D9%83%D9%88%D8%AA)
+- https://en.wikipedia.org/wiki/The_Betrothed_(Scott_novel)
+- https://it.wikipedia.org/wiki/Il_contestabile_di_Chester
